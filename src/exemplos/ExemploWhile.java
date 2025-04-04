@@ -24,5 +24,7 @@ public class ExemploWhile {
         }
         System.out.println("Mesada: R$ " + mesada);
         System.out.println("Joãozinho gastou toda a sua mesada em doces");
+
+        leia.close();
     }
 }
